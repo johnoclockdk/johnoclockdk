@@ -1,16 +1,33 @@
-### Hi there 👋
+---
 
-<!--
-**johnoclockdk/johnoclockdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://discord.com/users/151762679659233280">
+   <img src="https://lanyard.cnrad.dev/api/151762679659233280?borderRadius=5px&bg=161B22" align="right" />
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ABOUT ME
+
+> **`SourcePawn Developer`**
+>  
+> **https://cph-gaming.dk/** <br> **j**
+
+<br>
+
+---
+
+<div align="center">
+  <h3>Languages</h3>
+    
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Links</h3>
+  
+  <a target="_blank" href="https://discord.com/users/151762679659233280"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=161B22&style=for-the-badge&logo=discord" alt="Discord" /></a>
+</div>
+
+---
