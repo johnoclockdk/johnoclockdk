@@ -10,7 +10,7 @@
 
 > **`SourcePawn Developer`**
 >  
-> **https://cph-gaming.dk/** <br> **j**
+> **https://cph-gaming.dk/**
 
 <br>
 
