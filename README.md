@@ -10,8 +10,7 @@
 I've worked on a variety of projects, showcasing my range in software development. Here are a few highlights:
 
 
-<a target="_blank" <img alt="Static Badge" src="https://img.shields.io/badge/github-gra?style=for-the-badge&logo=github&color=333">
-<a target="_blank" href="https://github.com/johnoclockdk/cs2-Adminchat"><img src="https://img.shields.io/badge/github-gra?style=for-the-badge&logo=github&color=333" alt="Github" /></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/github-gra?style=for-the-badge&logo=github&color=333" alt="Admin Chat" /></a>
 <a target="_blank" href=""><img src="" alt="" /></a>
 
 ---
