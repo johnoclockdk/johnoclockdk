@@ -15,12 +15,13 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in vario
 ---
 
 ## Projects
+<div align="center">
 Here are some of my projects that I've worked on. Feel free to check them out:
 
 - [Project Name 1](https://github.com/yourusername/project1) - Description of Project 1
 - [Project Name 2](https://github.com/yourusername/project2) - Description of Project 2
 - [Project Name 3](https://github.com/yourusername/project3) - Description of Project 3
-
+</div>
 ---
 
 ## Contact Me
